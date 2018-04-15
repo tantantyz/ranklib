@@ -105,4 +105,6 @@ buildNumber.properties
 !/.mvn/wrapper/maven-wrapper.jar
 
 
+MANIFEST.MF
+
 # End of https://www.gitignore.io/api/java,maven,intellij
